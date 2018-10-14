@@ -1,2 +1,8 @@
 # dorm_tasks
-Simple chore scheduler for dorm life
+dorm_tasks is an Arduino powered chore scheduler for uni dorm life.
+
+## Setup
+
+
+
+## Use
